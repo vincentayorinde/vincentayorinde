@@ -38,13 +38,13 @@ I'm a passionate developer who thrives at the intersection of **software enginee
 Here are a few things I’m proud of:
 
 ### 🔐 [Alerta](https://usealerta.com)
-> A real-time cybersecurity notification platform that has processed over **45 million alerts**, offering threat feeds, security updates, and dark web monitoring for businesses.
+> Alerta is a simple yet powerful API that connects SMEs to their backend operations through tools they already use, like Slack and Discord. It delivers real-time alerts on things like low balances or suspicious activities, helping businesses stay on top of what matters without breaking the bank.
 
-### 🌐 [Encrisoft](https://encrisoft)
-> It's building an AI-powered onboarding and automation tool for entrepreneurs to create digital presence with websites, email, and SEO in minutes.
+### 🌐 [Encrisoft](https://encrisoft.com)
+> A new tool we are building at Encrisoft is an AI-powered onboarding and automation tool for entrepreneurs to create a digital presence with websites, email, and SEO in minutes.
 
 ### 🔧 Wazuh Kubernetes Agent Deployment
-> Helm-free deployment of Wazuh agent using DaemonSets to monitor clusters and detect real IP spoofing or MITRE ATT&CK behavior.
+> Helm-free deployment of Wazuh agent using DaemonSets to monitor clusters and detect real IP spoofing or MITRE ATT&CK behaviour.
 
 ---
 
