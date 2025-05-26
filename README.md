@@ -66,5 +66,3 @@ I'm open to:
 
 > “Code securely, deploy fearlessly.”
 
----
-
