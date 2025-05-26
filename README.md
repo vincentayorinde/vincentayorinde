@@ -6,7 +6,7 @@ I'm a passionate developer who thrives at the intersection of **software enginee
 
 - 🔭 I’m currently working on: **DevSecOps pipelines, containerized microservices, and security monitoring tools**
 - 🌱 I’m learning more about: **threat detection, Kubernetes security, and secure code analysis**
-- 💬 Ask me about: **NestJS, React, NATS, Docker, Wazuh, CI/CD, SOC2, ISO27001**
+- 💬 Ask me about: **NestJS, React, Angular, NATS, Docker, Wazuh, CI/CD, SOC2, ISO27001, ISO9001**
 - 📫 Reach me on:
   - [LinkedIn](https://www.linkedin.com/in/vincent-olagbemide)
   - [Twitter](https://twitter.com/vincentayorinde)
@@ -20,7 +20,7 @@ I'm a passionate developer who thrives at the intersection of **software enginee
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 **Backend:**  
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
