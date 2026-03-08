@@ -1,68 +1,52 @@
-# 👋 Hi, I'm Vincent Ayorinde Olagbemide also know as Vinay
+# Hi, I'm Vincent Olagbemide (Vinay)
 
-## 💻 Software Engineer | 🛡️ Cybersecurity Enthusiast | 🚀 DevOps Practitioner
+I’m a software engineer and founder with experience across product engineering, backend systems, infrastructure, and security.
 
-I'm a passionate developer who thrives at the intersection of **software engineering**, **infrastructure automation**, and **cybersecurity**. I love building secure and scalable systems that solve real-world problems, and I'm always eager to learn and contribute to open source.
+As Founder & CTO at **Encrisoft**, I work on products that help businesses improve security, stay compliant, and build with more confidence. I enjoy turning complex ideas into practical systems that are reliable, secure, and useful in the real world.
 
-- 🔭 I’m currently working on: **DevSecOps pipelines, containerized microservices, and security monitoring tools**
-- 🌱 I’m learning more about: **threat detection, Kubernetes security, and secure code analysis**
-- 💬 Ask me about: **NestJS, React, Angular, NATS, Docker, Wazuh, CI/CD, SOC2, ISO27001, ISO9001**
-- 📫 Reach me on:
-  - [LinkedIn](https://www.linkedin.com/in/vincent-olagbemide)
-  - [Twitter](https://twitter.com/vincentayorinde)
-  - [Email](mailto:vincent@vincenttechblog.com)
+Most of my work sits across engineering, DevOps, and cybersecurity, especially where product, infrastructure, and security need to work well together.
 
----
+## What I work with
 
-## 🛠️ Tech Stack
+**Languages**  
+JavaScript · TypeScript · Python · Java
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+**Frontend**  
+React · Angular · Tailwind CSS
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+**Backend**  
+NestJS · Node.js · PostgreSQL
 
-**Backend:**  
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+**Infrastructure / DevOps**  
+Docker · Kubernetes · GitHub Actions · AWS
 
-**DevOps / Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+**Security / Observability**  
+Wazuh · Wireshark · Burp Suite
 
-**Security:**  
-![Wazuh](https://img.shields.io/badge/-Wazuh-black?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square)
+## A few things I’m working on
 
----
+- Security products and internal tools
+- Alerting and monitoring systems
+- Backend services and microservice architecture
+- DevSecOps and compliance-focused engineering
 
-## 📌 Featured Projects
+## Featured work
 
-Here are a few things I’m proud of:
+### [Alerta](https://usealerta.com)
+A real-time alerting platform that helps teams send important business and security notifications to channels they already use, such as Slack, Teams, and Discord.
 
-### 🔐 [Alerta](https://usealerta.com)
-> Alerta is a simple yet powerful API that connects SMEs to their backend operations through tools they already use, like Slack and Discord. It delivers real-time alerts on things like low balances or suspicious activities, helping businesses stay on top of what matters without breaking the bank.
+### [Encrisoft](https://encrisoft.com)
+A company focused on building practical cybersecurity and compliance products for modern businesses.
 
-### 🌐 [Encrisoft](https://encrisoft.com)
-> A new tool we are building at Encrisoft is an AI-powered onboarding and automation tool for entrepreneurs to create a digital presence with websites, email, and SEO in minutes.
+### Wazuh Kubernetes Agent Deployment
+A Helm-free DaemonSet-based deployment approach for improving visibility and monitoring across Kubernetes environments.
 
-### 🔧 Wazuh Kubernetes Agent Deployment
-> Helm-free deployment of Wazuh agent using DaemonSets to monitor clusters and detect real IP spoofing or MITRE ATT&CK behaviour.
+## Connect
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincentayorinde&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentayorinde&layout=compact&theme=radical" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/vincent-olagbemide)
+- [X / Twitter](https://twitter.com/vincentayorinde)
+- [Email](mailto:vincent@vincenttechblog.com)
 
 ---
 
-## 🤝 Let's Collaborate
-
-I'm open to:
-- 🔭 Contributing to security-focused open source projects
-- 📢 Speaking about secure software development
-- 🧠 Mentoring junior developers in DevSecOps
-
-> “Code securely, deploy fearlessly.”
-
+I’m always interested in thoughtful engineering, security, and building products that solve real problems.
